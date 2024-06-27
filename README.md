@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-gyoung)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-gyoung)](https://github.com/min-gyoung/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-gyoung&layout=compact)
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
