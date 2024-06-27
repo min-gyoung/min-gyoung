@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">🌟TECH STACK🌟</h3>
+<h3 align="center">🌟 Tech 🌟</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
 </div>
 
-<h3 align="center">🛠️TOOLS🛠️</h3>
+<h3 align="center">🛠️ Tools 🛠️</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br>
