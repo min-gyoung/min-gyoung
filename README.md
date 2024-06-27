@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-gyoung)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-gyoung&langs_count=10&layout=compact&theme=dark)](https://github.com/min-gyoung/min-gyoung)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=min-gyoung&show_icons=true&locale=en&layout=compact)](https://github.com/min-gyoung/min-gyoung)﻿
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=min-gyoung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
